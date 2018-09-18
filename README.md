@@ -7,6 +7,7 @@ Hookers for Vrpex
 
 **Credits:**
 * Imagicat creator VRP
+* Yadiiiig
 
 **My contacts:**
 * My email : sun@blackbox.ac
